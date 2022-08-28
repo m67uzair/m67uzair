@@ -38,6 +38,6 @@
 
 <!-- <p align="center">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m67uzair)](https://github.com/anuraghazra/github-readme-stats)</p> -->
 
-<img align="center" alt="Muhammad Uzair's Github Stats" src="https://github-readme-stats.vercel.app/api?username=m67uzair">
+<img align="right" alt="Muhammad Uzair's Github Stats" src="https://github-readme-stats.vercel.app/api?username=m67uzair">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m67uzair&" alt="m67uzair" /></p>
