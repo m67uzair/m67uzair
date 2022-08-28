@@ -36,6 +36,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m67uzair&show_icons=true&locale=en&layout=compact" alt="m67uzair" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m67uzair&show_icons=true&locale=en" alt="m67uzair" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m67uzair)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m67uzair&" alt="m67uzair" /></p>
