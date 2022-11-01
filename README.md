@@ -1,4 +1,4 @@
-<h1 align="center">Konichiwa 👋, I'm Muhammad Uzair</h1>
+<h1 align="center">Hey there 👋, I'm Muhammad Uzair</h1>
 <h3 align="center">A frontend developer from Pakistan.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=m67uzair&label=Profile%20views&color=442222&style=plastic" alt="m67uzair" /> </p>
