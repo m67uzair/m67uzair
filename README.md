@@ -1,7 +1,7 @@
 [![@m67uzair's Holopin board](https://holopin.me/m67uzair)](https://holopin.io/@m67uzair)
 
-<h1 align="center">Hey there! 👋 I'm Muhammad Uzair 🇵🇰</h1>
-<h3 align="center">A Flutter Developer From Pakistan 🚀</h3>
+<h1 align="center">Hey there! 👋 I'm Muhammad Uzair</h1>
+<h3 align="center">A Flutter Developer From Pakistan</h3>
 
 ## 💫 About Me:
 🔭 I’m currently working on: Flutter<br>
